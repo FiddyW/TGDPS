@@ -8,10 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-         {
-            "user": "lucas.",
+      {
+            "user": "MayXaX.",
             "link": "https://youtu.be/rH3MfJe8ggA",
             "percent": 100,
             "hz": 120
-         }
+      }
     ]
+}
